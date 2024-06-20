@@ -27,7 +27,7 @@ This project demonstrates how to convert video segments into GIFs with transcrib
 3. Download the Whisper model (if not already available)
 
 ## Usage
-1. Place your video files in the `video_samples` directory.
+1. Place your video files in the `video_samples` directory and put name of the video file in `settings.py`.
 2. Run the script
     ```bash
     python main.py
